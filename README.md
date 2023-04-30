@@ -48,12 +48,12 @@ Completion type is the finish state of analysis, it can be fail or succeed. Due 
 
 ## Software licence agreement
 
-Details the license agreement of PARAD: [LICENCE](LICENCE)
+Details the license agreement of PARAD: [LICENSE](LICENSE)
 
 ## Historic Contributors
 
-* [Yassine OUHAMMOU](https://www.lias-lab.fr/fr/members/yassineouhammou/)
-* [Thanh-Dat NGUYEN](https://www.lias-lab.fr/fr/members/thanhdatnguyen/)
+* [Yassine OUHAMMOU](https://www.lias-lab.fr/members/yassineouhammou/)
+* [Thanh-Dat NGUYEN](https://www.lias-lab.fr/members/thanhdatnguyen/)
 
 ## Code analysis
 
