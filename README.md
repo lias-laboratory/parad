@@ -46,7 +46,7 @@ The information of analysis needed by PARAD are :
 
 Completion type is the finish state of analysis, it can be fail or succeed. Due to this property, we can deduce schedulability of studied system.
 
-## Software licence agreement
+## Software license agreement
 
 Details the license agreement of PARAD: [LICENSE](LICENSE)
 
